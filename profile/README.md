@@ -1,6 +1,6 @@
 # Invents.US, LLC
 
-Independent technology and product holding company — established 2014, Camano Island, Washington. Not affiliated with any similarly named company.
+Independent technology and product holding company — established 2014, Camano Island, Washington. 
 
 We build, run, and back our own ventures: software consulting, product development, cloud infrastructure, and retail. Our engineering work centers on **AWS serverless architecture**, **PostgreSQL**, and **multi-agent AI systems**.
 
@@ -20,3 +20,5 @@ We build, run, and back our own ventures: software consulting, product developme
 - [From Chaotic Kittens to a Coordinated Squad: How We Cut Our AI Agent Squad in Half](https://invents.us/insights/from-chaotic-kittens-to-coordinated-squad.html)
 
 Full index: [invents.us/insights](https://invents.us/insights.html)
+
+Invents.US, LLC is not affiliated with any similarly named company.
