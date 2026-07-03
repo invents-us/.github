@@ -2,7 +2,7 @@
 
 Independent technology and product holding company — established 2014, Camano Island, Washington. 
 
-We build, run, and back our own ventures: software consulting, product development, cloud infrastructure, and retail. Our engineering work centers on **AWS serverless architecture**, **PostgreSQL**, and **multi-agent AI systems**.
+We build, run, and back our own ventures: software consulting, product development, cloud infrastructure, and retail. Our engineering work centers on **AWS serverless architecture** and **multi-agent AI systems**.
 
 **Website:** [invents.us](https://invents.us/) · **Writing:** [invents.us/insights](https://invents.us/insights.html) · **LinkedIn:** [Invents.US](https://www.linkedin.com/company/invents-us/)
 
