@@ -8,6 +8,7 @@ We build, run, and back our own ventures: software consulting, product developme
 
 ## Open source
 
+- [sweph-rs](https://github.com/invents-us/sweph-rs) — Rust bindings for the Swiss Ephemeris (`sweph` + `sweph-sys` crates), AGPL-3.0
 - [pg-advisory-lock-per-user-quota](https://github.com/invents-us/pg-advisory-lock-per-user-quota) — defensive technical disclosure: per-user quota enforcement in stateless serverless apps via transaction-scoped Postgres advisory locks (CC0, runnable Go + Node reproduction)
 
 ## Selected engineering writing
